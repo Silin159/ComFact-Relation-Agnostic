@@ -18,3 +18,9 @@ bash train_baseline_entity_linker.sh
 ```
 Our trained entity linker based on DeBERTa (large) can be downloaded from [this link](https://drive.google.com/drive/folders/1204HllA462K6FeBO3pMH8v1G-i8y16Iz?usp=sharing), please place all-deberta-large-nlu-entity/ under the runs/ folder.
 
+## Fact Linking Evaluation
+```
+bash run_baseline_head_entity_link.sh
+bash run_baseline_tail_entity_link.sh
+python merge_linking.py
+```
