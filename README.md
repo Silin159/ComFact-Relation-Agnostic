@@ -5,7 +5,7 @@ This is the repository for relation-agnostic (entity-based) fact linking on [Com
 Start with creating a **python 3.6** venv and installing **requirements.txt**.
 
 ## ComFact Datasets
-The **ComFact dataset** can be downloaded from [this link](https://drive.google.com/file/d/1nbQiASv32WTGVo5TQHatJbxBlz2HtMRP/view?usp=sharing), please place data/ under this root directory.
+The **ComFact dataset** can be downloaded from [this link](https://drive.google.com/file/d/1h-9kK2ipoYiELqv6lOT6IarwlByGWuu1/view?usp=sharing), please place data/ under this root directory.
 
 ## Data Preprocessing
 ```
